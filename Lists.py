@@ -5,7 +5,7 @@ fam = ["liz", 1.73, "emma", 1.68, "mom", 1.71, "dad", 1.89]
 print(type(fam))
 
 months = ['January', 'February', 'March']
-months.append('April')
+months.append('April',)
 print(months)
 
 x = [1, 2, 3]
